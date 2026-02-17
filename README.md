@@ -2,7 +2,9 @@
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
 
 ## Project Overview
 Interactive retail sales dashboard built in Microsoft Excel to analyze sales performance using Pivot Tables, Slicers, and KPI Cards.
